@@ -59,4 +59,4 @@ The Random Forest model performed better than the baseline Logistic Regression m
 4. Run all cells step by step
 
 ## Author
-Shravani Gaikwad
+Shravani Gaikwad (CITS766)
